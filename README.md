@@ -19,5 +19,7 @@ Birth Year
 Resources
 
 The Python Standard Library
+
 Pandas Documentation
+
 Stack Overflow
